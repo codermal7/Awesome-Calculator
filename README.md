@@ -1,3 +1,3 @@
 # Calculator
-Calculator with amazing design using html and css only You just fall in love with design
+This remarkable calculator boasts a visually stunning and captivating design crafted exclusively with the utilization of HTML and CSS.
 ![calciHtmlLogo](calcpic.png)
